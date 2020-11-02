@@ -1,5 +1,5 @@
 # Code-Night-Resources
-This is an all-in-all repository which you can use as a template/kick-starter for your projects during CodeNight.
+This is an all-in-all repository that you can use as a template/kick-starter for your projects during CodeNight.
 
 Not only we will be sharing resources, but also templates and other related kits.
 
